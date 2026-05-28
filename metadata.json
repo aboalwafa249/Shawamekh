@@ -1,0 +1,6 @@
+{
+  "name": "Shawamikh (شوامخ)",
+  "description": "Enterprise HR & Operations Management System compliant with Saudi Labor Law, incorporating Geo-fenced Attendance, Smart Gemini Advisory, and interactive KPI Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
